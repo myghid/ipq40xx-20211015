@@ -9,7 +9,7 @@
 # Description: Source code update checker
 #
 
-name: Build OpenWrt
+name: Build OpenWrt Test
 
 on:
   repository_dispatch:
